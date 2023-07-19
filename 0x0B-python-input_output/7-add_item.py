@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Add all arguments."""
 import sys
 
 if __name__ == "__main__":
